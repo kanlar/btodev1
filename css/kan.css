@@ -1,0 +1,9 @@
+/*urunler kısmı renk ve yazı boyutu*/
+.card-title {
+ font-size: 19px;
+ color:rgb(39, 116, 216)
+}
+/*baslıklar ıcın her sey*/
+.bas {
+    color: rgb(39, 116, 216);
+    }
